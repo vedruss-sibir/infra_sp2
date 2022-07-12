@@ -26,5 +26,3 @@ urlpatterns = [
     path("v1/auth/token/", views.create_token, name="token"),
     path("v1/", include(router.urls)),
 ]
-
-# а где пустой запрос?
