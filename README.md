@@ -78,7 +78,7 @@ source venv/Scripts/activate
 Запустить проект:
 
 ```
-docker-compose up
+docker-compose upg
 ```
 
 Сам проект и админ-панель искать по адресам:
